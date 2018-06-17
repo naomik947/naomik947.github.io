@@ -1,0 +1,63 @@
+body{
+    background-color:lightblue;
+}
+nav {
+    background-color: #197b31;
+    text-align: center;
+    float: left;
+    height: 500px;
+    
+
+}
+nav ul li{
+    
+    margin: 25px;
+    font-size: 25px;
+    color: #ffffff
+    
+}
+nav a{
+    color: #fff;
+}
+.logo{
+    display:inline-block;
+    height: 40px;
+    width: 40px;
+    margin: 5px;
+}
+.dragon{
+    height: 500px;
+    width: 500px;
+    
+
+}
+.mainheader{
+    display: inline-block;
+   font-size: 50px;
+   margin: 5px;
+   font-family: fantasy;
+   
+}
+article{
+    text-align: center;
+}
+header{
+    text-align: center;
+}
+p{
+    font-size: 20px;
+}
+div{
+    float: right;
+    background-color: #197b31;
+    font-size: 25px;
+    height: 500px;
+}
+div li{
+    color: #fff;
+    margin-top: 25px;
+}
+.socialmedia{
+    height: 40px;
+    width: 40px;
+}

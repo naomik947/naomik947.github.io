@@ -1,0 +1,29 @@
+h1 {
+
+    background-color:white;
+       text-align: center;
+     margin: 25px;
+    }
+    
+    h1 a{
+       font-size: 18px;
+       color: #ffffff
+    }
+    
+    
+    
+    nav {
+    
+    background-color: #197b31;
+       text-align: center
+    
+    }
+    nav ul li{
+       display: inline-block;
+       margin: 25px;
+       
+    }
+    nav a{
+       font-size: 18px;
+       color: #ffffff
+    }
